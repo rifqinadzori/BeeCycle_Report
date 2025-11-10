@@ -1,6 +1,6 @@
 # Bee Cycle Mini Project SQL
 Project by Ainur Rifqi Nadzori
-Dashboard : ......
+Dashboard : https://bit.ly/BeeCycle-Analysis-Dashboard
 
 ## A. Business Understanding
 Bee-Cycle is a bicycle manufacturing company. They sell 4 categories of Product namely Bikes, Accessories, Clothing and Components
