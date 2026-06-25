@@ -1,4 +1,4 @@
-# Bee Cycle Mini Project SQL
+# Bee Cycle Analysis Dashboard (Mini Project SQL)
 Project by Ainur Rifqi Nadzori <br />
 Dashboard : https://bit.ly/BeeCycle-Analysis-Dashboard
 
